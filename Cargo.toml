@@ -5,6 +5,7 @@ members = [
     "crates/bls-gadgets",
     "crates/epoch-snark",
     "crates/bls-snark-sys",
+    "crates/elgamal",
 ]
 
 [profile.release]
